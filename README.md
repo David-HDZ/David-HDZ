@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Hernández</h1>
-<h3 align="center">A passionate frontend developer from: MEXICO</h3>
+<h3 align="center">A passionate frontend developer from: México</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-hdz" alt="david-hdz" /></a> </p>
+- 🔭 I’m currently working on **On becoming a better programmer**
 
 - 🌱 I’m currently learning **React and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davidh_099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidh_099" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david hernandez rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david hernandez rivera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
