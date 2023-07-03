@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Hernández</h1>
 <h3 align="center">A passionate frontend developer from: México</h3>
 
-- 🔭 I’m currently working on **On becoming a better programmer**
+- 🔭 I’m currently working **On becoming a better programmer**
 
 - 🌱 I’m currently learning **React and TypeScript**
 
